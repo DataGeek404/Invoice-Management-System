@@ -3,7 +3,7 @@
         'name' => 'data-geek/invoice-management-system',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8d8ee5406d75539b773a6292bf8a8903a7977ca9',
+        'reference' => '94cf9f7834550dcca5d9429712126fd756acd579',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'data-geek/invoice-management-system' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8d8ee5406d75539b773a6292bf8a8903a7977ca9',
+            'reference' => '94cf9f7834550dcca5d9429712126fd756acd579',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
