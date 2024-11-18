@@ -194,6 +194,7 @@ class Invoicr {
         break;
     }
   }
+  //(I) OUTPUTDOCX() : OUTPUT IN DOCX
 
   // (I) OUTPUTDOCX() : OUTPUT IN DOCX
   //  $mode : 1 = force download (provide the file name in $save)
