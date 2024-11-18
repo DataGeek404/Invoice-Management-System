@@ -1,0 +1,5 @@
+{
+    "name": "placeholder",
+    "description": "Placeholder composer.json to bypass checks",
+    "require": {}
+}
