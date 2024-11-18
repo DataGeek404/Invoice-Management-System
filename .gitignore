@@ -1,0 +1,19 @@
+# System files
+$Recycle.Bin/
+*.log
+*.sys
+*.lnk
+*.tmp
+
+# User directories
+AppData/
+Desktop.ini
+ntuser.*
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Node.js, Python, or other environment folders
+node_modules/
+__pycache__/
